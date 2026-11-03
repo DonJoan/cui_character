@@ -1,5 +1,6 @@
 fx_version 'cerulean'
-games { 'gta5' }
+game 'gta5'
+version '1.1.0'
 
 client_scripts {
     '@es_extended/locale.lua',
